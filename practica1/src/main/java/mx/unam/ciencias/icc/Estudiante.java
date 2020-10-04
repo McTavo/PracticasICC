@@ -27,7 +27,7 @@ public class Estudiante {
                       double promedio,
                       int    edad) {
         this.nombre    = nombre;
-        // Aquí va su código.
+        this.cuenta = cuenta;
     }
 
     /**
